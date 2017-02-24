@@ -1,4 +1,4 @@
-# Exercices JavaScript
+# Exercices JQuery
 
 **IMPORTANT**
 
