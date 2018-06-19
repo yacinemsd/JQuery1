@@ -42,4 +42,4 @@ Donner aux div **firstText** et **thirdText** une bordure de 5 pixels, verte à 
 
 ## Exercice 10 :
 
-Du JQuery est déjà présent et permet de cacher tous les éléments de la classe hide. Ajouter cette classe à la div **thirdText**.
+Du JQuery est déjà présent et permet de cacher tous les éléments de la classe **hide**. Ajouter cette classe à la div **thirdText**.
