@@ -14,7 +14,7 @@ Afficher la div **text**.
 
 ## Exercice 3 :
 
-Changer le font-family de la div **text** en "Courier".
+Changer le font-family de la div **text** en "Arial".
 
 ## Exercice 4 :
 
